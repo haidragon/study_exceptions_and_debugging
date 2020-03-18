@@ -6,8 +6,8 @@
 * 第三节 异常
 * 第四节 调试
 * [第五节 调试器编写](https://github.com/haidragon/study_exceptions_and_debugging/blob/master/study_exceptions_and_debugging/linux/page1/page.md)
-* 第六节 反调试
-* 第七节 反反调试
+* [第六节 反调试](https://github.com/haidragon/study_exceptions_and_debugging/blob/master/study_exceptions_and_debugging/linux/page6/page.md)
+* [第七节 反反调试](https://github.com/haidragon/study_exceptions_and_debugging/blob/master/study_exceptions_and_debugging/linux/page7/page.md)
 * 第八节 反注入
 * 第九节 反反注入
 * 第十节 反hook
